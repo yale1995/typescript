@@ -1,0 +1,12 @@
+"use strict";
+let variableValue;
+variableValue = true;
+variableValue = 'Yale';
+variableValue = 12;
+variableValue = undefined;
+variableValue = null;
+console.log(variableValue);
+let value;
+let value1 = value;
+let value1 = value;
+let value1 = value;
