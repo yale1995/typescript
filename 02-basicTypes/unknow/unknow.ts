@@ -10,8 +10,8 @@ console.log(variableValue)
 
 let value: unknown;
 
-let value1: boolean = value
-let value1: string = value
-let value1: number = value
+// let value1: boolean = value  => return error
+// let value1: string = value => return error
+// let value1: number = value => return error
 
 

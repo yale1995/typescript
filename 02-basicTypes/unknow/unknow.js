@@ -7,6 +7,6 @@ variableValue = undefined;
 variableValue = null;
 console.log(variableValue);
 let value;
-let value1 = value;
-let value1 = value;
-let value1 = value;
+// let value1: boolean = value  => return error
+// let value1: string = value => return error
+// let value1: number = value => return error
