@@ -9,9 +9,9 @@ console.log('octadecimal number ', number3)
 console.log('binary number ', number4)
 
 let big1: bigint = 9012901920930193021n;
-let big2: bigint = 012901920930193021n;
+let big2: bigint = 1231312312321n;
 let big3: bigint = 912901920930193021n;
-let big4: bigint = 012901920930193021n;
+let big4: bigint = 122321312321321312n;
 
 console.log('bigint ', big1)
 console.log('bigint ', big2)
