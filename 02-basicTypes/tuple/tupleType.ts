@@ -1,3 +1,4 @@
+export
 let person: [string, number, boolean] = ['Fulano', 22, false]
 console.log(person)
 
