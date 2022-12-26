@@ -64,7 +64,14 @@ class Person extends OtherStudant {
 }
 
 const person = new Person(123456, 'Bolsonaro', 'Política')
+console.log(Person)
 
 console.log(person.idStudant, 'id')
 console.log(person.showingDataStudant(), 'function')
 console.log(person, 'instacia')
+
+person.idStudant = 666
+console.log(person)
+console.log(person.idStudant)
+
+console.log(Person)
